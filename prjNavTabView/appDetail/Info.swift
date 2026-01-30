@@ -4,7 +4,7 @@
 //
 //  Created by Souleymane Sow on 2026-01-24.
 //
-import SwiftUI
+/*import SwiftUI
 
 struct Info: View {
     var body: some View {
@@ -20,5 +20,5 @@ struct Info: View {
 }
 #Preview {
     Info()
-}
+}*/
 

@@ -4,7 +4,7 @@
 //
 //  Created by Souleymane Sow on 2026-01-24.
 //
-import SwiftUI
+/*import SwiftUI
 
 struct VueParametres: View {
     var body: some View {
@@ -21,3 +21,4 @@ struct VueParametres: View {
 #Preview {
     VueParametres()
 }
+*/
